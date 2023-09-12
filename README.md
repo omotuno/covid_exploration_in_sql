@@ -1,6 +1,6 @@
 # COVID-19 Data Exploration
 
-This project performs analysis on COVID-19 data to uncover insights and trends. Data is imported from CSVs into a MySQL database and explored through SQL queries.
+This project performs analysis on COVID-19 data to uncover insights and trends. Data is imported from CSVs into a MySQL database and explored using DataGrips and MySQL through SQL queries.
 
 #### Data
 The data contains two tables:
